@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently building:** A full-stack rental automation system, plus a streamlined blog editor with automated publishing.<br>- 👯 **I’d love to team up on:** Open-source projects, mobile apps, or anything involving automation.  <br>- 🌱 **Right now I’m learning:** UML diagrams and diving deeper into Java and its ecosystem.  <br>- ⚡ **Fun fact:** If something can be automated, I’ll probably find a way.
+🔭 **I’m currently building:** A full-stack rental automation system, plus a streamlined blog editor with automated publishing.<br> 👯 **I’d love to team up on:** Open-source projects, mobile apps, or anything involving automation.  <br> 🌱 **Right now I’m learning:** UML diagrams and diving deeper into Java and its ecosystem.  <br> ⚡ **Fun fact:** If something can be automated, I’ll probably find a way.
 
 
 ## 🌐 Socials:
